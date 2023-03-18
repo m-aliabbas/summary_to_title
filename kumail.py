@@ -1,2 +1,2 @@
-for i in range(10):
-    print(i**i)
+for i,j in enumerate(range(10)):
+    print(i**j)
