@@ -10,6 +10,14 @@ pip install -r requirements.txt
 
 ## Usage 
 ### For Training Please follow `training_and_dataprepration.ipynb`
+### Processing data
+ ```
+ python data_processing.py
+ ```
+ ### Training 
+ ```
+ python training.py
+ ```
 ### Inference
 ```
 from InferAbs2Titile import InferAbs2Title
